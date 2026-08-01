@@ -24,7 +24,9 @@ GSISで学んだ内容と、その活用・実践結果を継続的に記録す�
 
 ## アプリを試す
 
-[GSIS学びの実践記録を開く](https://miurasa777-del-learning-records-streamlit-app-cgqsok.streamlit.app/)
+以下のURLからアプリを試用できます。
+
+<https://miurasa777-del-learning-records-streamlit-app-cgqsok.streamlit.app/>
 
 ## 使用技術
 
