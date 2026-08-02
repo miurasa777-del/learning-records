@@ -7,7 +7,7 @@ Streamlitを利用した、GSISでの学びを継続的に記録するためのW
 ## URL
 
 このURLから試すことができます（スリープ状態のときは、表示される起動ボタンを押してください）：  
-https://miurasa777-del-learning-records-streamlit-app-cggsok.streamlit.app/
+https://miurasa777-del-learning-records-streamlit-app-cgqsok.streamlit.app/
 
 ---
 
